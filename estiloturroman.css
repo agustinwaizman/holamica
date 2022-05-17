@@ -133,6 +133,7 @@ ul.show{
     background-image: url(fotito.png);
     background-size: cover;
     background-attachment: fixed;
+    display: flex;
 }
 .sobre-mi{
     display: flex;
